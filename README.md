@@ -12,12 +12,7 @@ Licença MIT
 
 Copyright (c) 2025 Henrique Cavalcante
 
-É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia
-deste software e arquivos de documentação associados (o "ATV06JS"), para lidar
-no Software sem restrições, incluindo, sem limitação, os direitos
-para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
-cópias do Software e permitir que as pessoas a quem o Software é destinado
-mobiliado para tal.
+Para mais informações acesse o arquivo "LICENSE".
 
 #### Fontes de Referência Utilizadas
 Para aprofundar os estudos utilizei o Curso de JavaScript de Matheus Battisti do canal Hora de Codar que foi de grande importancia para o desenvolvimento do projeto.
