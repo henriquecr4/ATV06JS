@@ -24,3 +24,6 @@ Para aprofundar os estudos utilizei o Curso de JavaScript de Matheus Battisti do
 https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6
 
 Para tirar duvidas especificas de alguma parte do desenvolvimento eu utilizei o site StackOverflow que foi de grande ajuda para partes como exemplo o collision detection (detectar colisões entre a bola e os blocos). https://stackoverflow.com/search?q=collision+detection+JavaScript
+
+#### Versão do software
+Versão 1.0.0
