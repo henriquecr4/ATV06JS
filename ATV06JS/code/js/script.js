@@ -1,4 +1,3 @@
-
 let board;
 let boardWidth = 500;
 let boardHeight = 500;
@@ -44,7 +43,7 @@ let blockY = 45;
 let score = 0;
 let gameOver = false;
 
-let rankings = JSON.parse(localStorage.getItem("rankings")) || []; // Load rankings from localStorage
+let rankings = JSON.parse(localStorage.getItem("rankings")) || [];
 
 window.onload = function() {
     board = document.getElementById("board");
