@@ -20,5 +20,8 @@ https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6
 
 Para tirar duvidas especificas de alguma parte do desenvolvimento eu utilizei o site StackOverflow que foi de grande ajuda para partes como exemplo o collision detection (detectar colisões entre a bola e os blocos). https://stackoverflow.com/search?q=collision+detection+JavaScript
 
+O canal do youtube Kenny Yip Coding foi de grande importância para a base do código
+https://www.youtube.com/@KennyYipCoding
+
 #### Versão do software
 Versão 1.0.0
